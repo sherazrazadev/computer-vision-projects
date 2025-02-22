@@ -1,0 +1,71 @@
+train: /content/drive/MyDrive/data/dataset1/train/images
+val: /content/drive/MyDrive/data/dataset1/val/images
+
+nc: 66
+names:
+  0: almonds
+  1: apple
+  2: banana
+  3: barley
+  4: beef steak
+  5: beer
+  6: bell peppers
+  7: broccoli
+  8: buckwheat
+  9: butter
+  10: cake
+  11: carrot
+  12: cheddar cheese
+  13: chicken breast
+  14: chickpeas
+  15: chips
+  16: chocolate
+  17: cocktails
+  18: coffee
+  19: cookies
+  20: corn
+  21: cucumber
+  22: egg
+  23: elderberry
+  24: garlic
+  25: granola bars
+  26: grapes
+  27: ice cream
+  28: juice orange
+  29: kale
+  30: kiwi
+  31: lentil
+  32: mango
+  33: milk
+  34: millet
+  35: mozzarella cheese
+  36: mushroom
+  37: oats
+  38: onion
+  39: orange
+  40: parmesan cheese
+  41: pasta
+  42: peach
+  43: peanuts
+  44: pineapple
+  45: popcorn
+  46: pork chops
+  47: quinoa
+  48: raspberry
+  49: rice
+  50: salmon
+  51: smoothie
+  52: soft drink
+  53: spinach
+  54: strawberry
+  55: sunflower seeds
+  56: tea
+  57: tofu
+  58: tomatoes
+  59: trail mix
+  60: walnuts
+  61: water
+  62: watermelon
+  63: whole wheat bread
+  64: wine
+  65: yogurt
